@@ -1,4 +1,10 @@
-### Hi there 👋
+## ⚙️ Frontend Engineer.
+
+업무가 개발인데, 취미도 개발인 이상한 **개발자**.
+
+왜 필요한지 모르는 것들을 개발하는 신기한 **개발자**.
+
+모든 사람들이 편해졌으면 하는 **개발자**.
 
 <!--
 **freevuehub/freevuehub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
