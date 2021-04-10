@@ -4,14 +4,18 @@
 - 왜 필요한지 모르는 것들을 개발하는 신기한 **개발자**.
 - 모든 사람들이 편해졌으면 하는 **개발자**.
 
-### Favorit Tech
+### Favorite Tech
 
 - Language: `HTML`, `CSS`, `Javascript`, `Typescript`
-- Font-End: `Vue`, `React`, `Nuxt`, `Next`, `GraphQL`, `SWR`
+- Font-End: `Vue`, `React`, `Nuxt`, `Next`, `GraphQL`
 - Back-End: `Node`, `MySQL`, `GraphQL`
 - DevOps: `Docker`
 
 ### Interest Tech
+
+- Language: `Go`
+- Font-End: `Deno`, `SWR`, `Sevelt`
+- DevOps: `AWS`
 
 ---
 
