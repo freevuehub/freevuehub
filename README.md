@@ -6,6 +6,10 @@
 
 모든 사람들이 편해졌으면 하는 **개발자**.
 
+---
+
+![내가 이만큼 했다!](https://github-readme-stats.vercel.app/api?username=freevuehub&theme=vue&show_icons=true)
+
 <!--
 **freevuehub/freevuehub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
