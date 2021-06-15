@@ -8,13 +8,13 @@
 
 - Language: `HTML`, `CSS`, `Javascript`, `Typescript`
 - Font-End: `Vue`, `React`, `Nuxt`, `Next`, `GraphQL`
-- Back-End: `Node`, `MySQL`, `GraphQL`
+- Back-End: `Node`, `Deno`, `MySQL`, `GraphQL`
 - DevOps: `Docker`
 
 #### Interest Tech
 
 - Language: `Go`
-- Font-End: `Deno`, `SWR`, `Sevelt`
+- Font-End: `SWR`, `Sevelt`
 - DevOps: `AWS`
 
 ---
