@@ -14,7 +14,7 @@
 #### Interest Tech
 
 - Language: `Go`
-- Font-End: `SWR`, `Sevelt`
+- Font-End: `SWR`, `Sevelt`, `WebComponent`
 - DevOps: `AWS`
 
 ---
