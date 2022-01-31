@@ -1,5 +1,10 @@
+<p align="center">
+  <img width="100px" src="https://file.freevue.dev/images/logo/blog/square-logo.png" align="center" alt="FreeVue" />
+</p>
+
 <h1 align="center">
-  Hi 👋, I'm FreeVue <img src="https://komarev.com/ghpvc/?username=freevuehub&label=Profile%20views&color=0e75b6&style=flat" alt="freevuehub" />
+  Hi 👋, I'm FreeVue <br />
+  <img src="https://komarev.com/ghpvc/?username=freevuehub&label=Profile%20views&color=0e75b6&style=flat" alt="freevuehub" />
 </h1>
 <h4 align="center">
   쓸모없는 것을 개발하여 쓸모있게 만드는 개발자입니다. <br />
