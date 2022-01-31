@@ -11,7 +11,7 @@
   큰 회사를 다니는 개발자가 아닌 큰 컨퍼런스에서 발표하는 개발자가 되고 싶습니다. <br />
 </h3>
 
-### 기본 정보 통계
+### 기본 정보
 <p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api?username=freevuehub&show_icons=true&locale=kr&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
