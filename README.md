@@ -1,37 +1,23 @@
-### I'm Front-End Engineer.
+<h1 align="center">
+  Hi 👋, I'm FreeVue <img src="https://komarev.com/ghpvc/?username=freevuehub&label=Profile%20views&color=0e75b6&style=flat" alt="freevuehub" />
+</h1>
+<h4 align="center">
+  쓸모없는 것을 개발하여 쓸모있게 만드는 개발자입니다. <br />
+  큰 회사를 다니는 개발자가 아닌 큰 컨퍼런스에서 발표하는 개발자가 되고 싶습니다. <br />
+</h3>
 
-- 업무가 개발인데, 취미도 개발인 이상한 **개발자**.
-- 왜 필요한지 모르는 것들을 개발하는 신기한 **개발자**.
-- 모든 사람들이 편해졌으면 하는 **개발자**.
-
-#### Favorite Tech
-
-- Language: `HTML`, `CSS`, `Javascript`, `Typescript`
-- Font-End: `Vue`, `React`, `Nuxt`, `Next`, `GraphQL`
-- Back-End: `Node`, `Deno`, `MySQL`, `GraphQL`
-- DevOps: `Docker`
-
-#### Interest Tech
-
-- Language: `Go`
-- Font-End: `SWR`, `Sevelt`, `WebComponent`
-- DevOps: `AWS`
-
----
-
-![내가 이만큼 했다!](https://github-readme-stats.vercel.app/api?username=freevuehub&theme=vue&show_icons=true)
-
-<!--
-**freevuehub/freevuehub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=freevuehub&show_icons=true&locale=kr&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
+    alt="freevuehub"
+  />
+</p>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=freevuehub&show_icons=true&locale=kr&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
+    alt="freevuehub"
+  />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=freevuehub&locale=kr" alt="freevuehub" />
+</p>
