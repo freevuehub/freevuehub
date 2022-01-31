@@ -19,5 +19,9 @@
   />
 </p>
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=freevue&locale=kr" alt="freevuehub" />
+</p>
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=freevuehub&locale=kr" alt="freevuehub" />
 </p>
+
