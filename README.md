@@ -46,5 +46,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=60:c892d8,100:6667ab&section=footer alt="freevuehub" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=60:c892d8,100:6667ab&section=footer" alt="freevuehub" />
 </p>
