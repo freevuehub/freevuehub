@@ -45,3 +45,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=freevuehub&locale=kr" alt="freevuehub" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=60:c892d8,100:6667ab&section=footer alt="freevuehub" />
+</p>
