@@ -32,9 +32,6 @@
   <a href="https://github.com/freevuehub/radiyu-lang">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=freevuehub&repo=radiyu-lang&locale=kr&bg_color=60,c892d8,6667ab&title_color=fff&text_color=fff" />
   </a>
-  <a href="https://github.com/freevuehub/reacth">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=freevuehub&repo=reacth&locale=kr&bg_color=60,c892d8,6667ab&title_color=fff&text_color=fff" />
-  </a>
   <a href="https://github.com/freevuehub/pop.freevue.dev">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=freevuehub&repo=pop.freevue.dev&locale=kr&bg_color=60,c892d8,6667ab&title_color=fff&text_color=fff" />
   </a>
