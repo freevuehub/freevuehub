@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100px" src="https://file.freevue.dev/images/logo/blog/square-logo.png" align="center" alt="FreeVue" />
+  <img width="100px" src="https://og.freevue.dev/api/logo?size=100&style=border" align="center" alt="FreeVue" />
 </p>
 
 <h1 align="center">
