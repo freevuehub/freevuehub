@@ -23,14 +23,14 @@
 <hr />
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=freevuehub&theme=dracula" />  
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=freevuehub&theme=dracula" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=freevuehub&theme=dracula" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=freevuehub&theme=github_dark" />  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=freevuehub&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=freevuehub&theme=github_dark" />
 </p>
 
 <hr />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=freevuehub&theme=dracula" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=freevuehub&theme=github_dark" />
 
 <p align="center">
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=60:c892d8,100:6667ab&section=footer" alt="freevuehub" />
