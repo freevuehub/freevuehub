@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=60:c892d8,100:6667ab&section=header" alt="freevuehub" />
+  
 <p align="center">
   <img width="100px" src="https://og.freevue.dev/api/logo?size=100&style=border" align="center" alt="FreeVue" />
 </p>
