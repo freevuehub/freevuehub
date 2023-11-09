@@ -22,7 +22,7 @@
 
 <hr />
 
-<p>
+<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=freevuehub&theme=dracula" />  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=freevuehub&theme=dracula" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=freevuehub&theme=dracula" />
