@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=60:c892d8,100:6667ab&section=header" alt="freevuehub" />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=60:c892d8,100:6667ab&section=header" alt="freevuehub" />
 </p>
   
 <p align="center">
