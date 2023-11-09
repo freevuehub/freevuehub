@@ -21,21 +21,14 @@
 </p>
 
 <hr />
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=freevuehub&show_icons=true&locale=kr&bg_color=60,c892d8,6667ab&title_color=fff&text_color=fff" />
-</p>
-<hr />
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&bg_color=60,c892d8,6667ab&locale=kr&title_color=fff&text_color=fff" />
-</p>
-
-<hr />
 
 <p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=freevuehub&theme=dracula" />  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=freevuehub&theme=dracula" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=freevuehub&theme=dracula" />
 </p>
+
+<hr />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=freevuehub&theme=dracula" />
 
