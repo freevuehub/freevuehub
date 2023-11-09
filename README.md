@@ -33,6 +33,8 @@
 
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=freevuehub&theme=dracula" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=freevuehub&theme=dracula" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=freevuehub&theme=dracula" />
 
 <p align="center">
