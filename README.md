@@ -4,7 +4,7 @@
   <img width="100px" src="https://og.freevue.dev/api/logo?size=100&style=border" align="center" alt="FreeVue" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&bg_color=60,c892d8,6667ab&locale=kr&title_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&bg_color=60,c892d8,6667ab&locale=kr&title_color=fff&text_color=fff" />
 </p>
 <p>
   <img
