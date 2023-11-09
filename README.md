@@ -31,7 +31,7 @@
 
 <hr />
 
-<img src="https://activity-graph.herokuapp.com/graph?username=freevuehub&theme=nord" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=freevuehub&theme=dracula" />
 
 <p align="center">
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=60:c892d8,100:6667ab&section=footer" alt="freevuehub" />
