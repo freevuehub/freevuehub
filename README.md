@@ -29,6 +29,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&bg_color=60,c892d8,6667ab&locale=kr&title_color=fff&text_color=fff" />
 </p>
 
+<hr />
+
+<img src="https://activity-graph.herokuapp.com/graph?username=freevuehub&theme=nord" />
+
 <p align="center">
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=60:c892d8,100:6667ab&section=footer" alt="freevuehub" />
 </p>
