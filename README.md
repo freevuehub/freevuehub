@@ -40,5 +40,5 @@
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 
 <p align="center">
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=60:bb2649,100:ff5572&section=footer" alt="freevuehub" />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=60:ffbe98,100:ffbe98&section=footer" alt="freevuehub" />
 </p>
