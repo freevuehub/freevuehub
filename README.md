@@ -3,7 +3,7 @@
 </p>
   
 <p align="center">
-  <img width="100px" src="https://og.freevue.dev/api/logo?size=90&style=border" align="center" alt="FreeVue" />
+  <img width="100px" src="https://og.freevue.dev/api/logo?size=100&style=border" align="center" alt="FreeVue" />
 </p>
 
 <p align="center">
