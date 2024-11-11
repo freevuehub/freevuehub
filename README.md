@@ -28,6 +28,18 @@
 <hr />
 
 <p align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/freevuehub"
+      width="600"
+      height="300"
+    />
+  </a>
+</p>
+
+<hr />
+
+<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=freevuehub&theme=github_dark" />  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=freevuehub&theme=github_dark" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=freevuehub&theme=github_dark" />
