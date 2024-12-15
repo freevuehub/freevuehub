@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=60:ffbe98,100:ffbe98&section=header" alt="freevuehub" />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=60:A47864,100:A47864&section=header" alt="freevuehub" />
 </p>
   
 <p align="center">
@@ -52,5 +52,5 @@
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 
 <p align="center">
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=60:ffbe98,100:ffbe98&section=footer" alt="freevuehub" />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=60:A47864,100:A47864&section=footer" alt="freevuehub" />
 </p>
