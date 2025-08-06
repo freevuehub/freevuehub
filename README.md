@@ -5,7 +5,7 @@
   <img width="298" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=freevue&theme=darcula" />
   <img width="298" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=freevue&theme=darcula" />
 </p>
-<p align="left">
+<p>
   <a href="https://github.com/devxb/gitanimals">
     <img
       src="https://render.gitanimals.org/farms/freevuehub"
